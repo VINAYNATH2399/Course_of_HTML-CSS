@@ -1,0 +1,30 @@
+/* element selector */
+p{
+    background-color: aquamarine;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+/* ID selector */
+#vinay{
+        font-size: 50px;
+        color: darkkhaki;
+        text-decoration: line-through;
+        background-color: rgb(201, 113, 175);
+    }
+
+/* Class selector */ 
+.vohra{
+   font: size 100px;
+   color: blue;
+}
+
+/* Atribute Selector */
+input[type="password"]{
+    color: blue;
+    text-align-last:center ;
+}
+
+a[href="http://google.com"]{
+    color:red;
+}

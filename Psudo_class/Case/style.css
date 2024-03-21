@@ -1,0 +1,36 @@
+p{
+    background-color:brown;
+    cursor: pointer;
+    height:100px;
+    width: 100px;
+    border: 2px dotted red;
+    text-align: center;
+}
+/* 1. hover state */
+div:hover{
+    background-color:greenyellow;
+    cursor: pointer;
+    height:100px;
+    width: 100px;
+    border: 2px dotted red;
+    text-align: center;
+}
+
+/* 2 focus state */
+input{
+    background-color:white;
+    font-size: 50px;
+}
+
+input:focus{
+    background-color: goldenrod;
+    font-size: 80px;
+}
+
+/* 3 active state */
+h1:active{
+    background-color:yellow;
+    height: 80px;
+    width: 250px;
+    border: 3px solid;
+}

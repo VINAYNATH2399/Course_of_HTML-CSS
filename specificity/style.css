@@ -1,0 +1,14 @@
+.vin{
+   color: green;
+   border-style: dotted;
+}
+#vinay{
+    color: blue;
+    border-style: inset;
+} */
+
+h1{
+    color: yellow;
+}
+/* id > class > element */
+/* inline > internal > external */

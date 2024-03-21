@@ -1,0 +1,28 @@
+li{
+    text-align: center;
+    width: 100px;
+    height:50px;
+}
+
+/* first-child */
+ul>li:first-child{
+         background-color: blueviolet;
+         font-size: 40px;
+         text-align: center;
+}
+/* Last Child */
+ul>li:last-child{
+       background-color:yellow;
+       font-size:50px;
+       border:dotted black;
+}
+/* nth Child */
+ul>li:nth-child(5){
+    background-color:grey;
+    border:solid black;
+}
+
+    li:nth-child(2n){
+    background-color:blue;
+    border:solid black;
+}

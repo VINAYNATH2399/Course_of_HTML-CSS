@@ -1,0 +1,32 @@
+.box{
+    width: 100px;
+    height: 100px;
+    background-color: darksalmon;
+    transition-duration: 3s;
+    /* transition-delay: 5s; */
+    
+}
+
+div{
+    /* transform: translateX(600px); */
+    transform: translateY(200px);   
+    /* transform: translate(200px, 400px); */
+}
+
+div:hover{
+    /* transform: translate(200px, 400px); */
+    /* transform: rotatex(90deg); */
+    /* transform: rotatey(360deg); */
+    /* transform: rotatez(60deg); */
+    /* transform: scaleX(5);  */
+    /* transform: scaleY(2);  */
+    /* transform: scale(5 , 2); */
+    transform:skewY(25deg);
+}
+
+section{
+    width: 200px;
+    height: 200px;
+    background-color: bisque;
+    transform: skew(30deg);
+}

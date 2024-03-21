@@ -1,0 +1,21 @@
+p{
+    font-size: 20px;
+
+}
+p::first-letter{
+    background-color: aquamarine;
+    font-size: 100px;
+}
+
+p::first-line{
+    background-color:rgb(128, 60, 255);
+}
+
+p::after{
+    content: 'I am Vinay';
+}
+
+p::before{
+    content: "\01F525";
+}
+/* In CSS you need to use the ::before or ::after pseudo-element coupled with the content property where you paste the Emoji as the value. */

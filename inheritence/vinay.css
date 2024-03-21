@@ -1,0 +1,7 @@
+ul>li{
+    /* not inherited */
+    border-top: 10px dotted black;
+    /* Inheritence */
+    font-size: 40px;
+    color: darkcyan;
+}

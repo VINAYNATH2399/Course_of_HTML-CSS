@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+div{
+    height:100px;
+    width: 100px;
+    border: 2px solid blue;
+    display:inline-block;
+}
+
+section{
+   border:solid red;
+   margin: 20px;
+}
+
+#statics #middle{
+    position: static;
+    top: 500px;
+    left: 500px;
+    /* in case of static offset(top, left, right, bottom) is not work */
+}
+
+#relative #middle{
+    position: relative;
+    top: 50px;
+    left: 10px;
+    /* right: 10px; */
+    bottom: 150px;
+    /* In case of relative offset are work with their original position */
+}
+

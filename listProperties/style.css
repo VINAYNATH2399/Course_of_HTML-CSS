@@ -1,0 +1,23 @@
+/* ul{ */
+    /* list-style: disc; */
+    /* list-style: circle; */
+    /* list-style:square; */
+    /* list-style: armenian;
+    list-style-image: url('https://images.unsplash.com/photo-1490730141103-6cac27aaab94?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8ZnJlZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60'); */
+/* } */
+
+/* li{
+    border:1px solid red;
+    list-style-position: inside; */
+    /* list-style-image: url("https://plus.unsplash.com/premium_photo-1669497495583-d552beb8ece4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZnJlZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60"); */
+/* } */
+
+div{
+    border:20px solid greenyellow;
+    height: 100px;
+    width:100px;
+    padding:10px;
+    border-style: dotted;
+    text-align: center;
+    border-radius:50% 50% 10% 0%;
+}

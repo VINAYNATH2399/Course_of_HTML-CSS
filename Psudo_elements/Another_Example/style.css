@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(50, 205, 63);
+}
+p{
+    font-family:Arial;
+    text-align: center;
+    position: relative;
+    top: 40%;
+    font-weight: bold;
+    font-size: 100px;
+    color: white;
+}
+
+p::before{
+    content: "🖐️";
+}

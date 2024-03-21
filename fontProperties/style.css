@@ -1,0 +1,15 @@
+h1{
+    font-size:100px;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-shadow: 2px 5px 12px red;
+    line-height:50px;
+}
+ p1{
+    /* letter-spacing:10px; */
+    word-spacing:10px;
+    text-shadow :5px 5px 15px blue;
+ }

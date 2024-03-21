@@ -1,0 +1,28 @@
+/* BoxModel Properties
+   1. Width
+   2. Height
+   3. Border */
+/* div{
+    background-color: lightgreen;
+    height: 300px;;
+    width: 300px; */
+    /* border */
+    /* border: 5px solid red; */
+    /* padding */
+    /* padding: 20px; */
+    /* Margin -> Two element ke bich ki jagah */
+    /* margin: 50px;
+} */
+
+span{
+    display: block;
+    background-color:aqua;
+    height: 500px;;
+    width: 500px;
+    /* border */
+    border: 100px solid red;
+    /* padding */
+    padding: 200px;
+    /* Margin -> Two element ke bich ki jagah */
+    margin: 10px;
+}

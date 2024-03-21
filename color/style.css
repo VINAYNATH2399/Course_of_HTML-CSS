@@ -1,0 +1,16 @@
+/* rgb */
+h1{
+   color: rgb(107, 128, 100);
+}
+/* rgba-> alpha */
+p{
+    color: rgba(220, 150, 500, 2);
+}
+
+div{
+    color: rgba(254, 12, 34, 0.5);
+}
+/* hexadecimal */
+h2{
+    color: #0000ff; /*rrggbb*/
+}
